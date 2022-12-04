@@ -1,5 +1,6 @@
-**Kartik Chauhan**<br>
-<sub>Associate Lead Engineer @ <a href="https://www.dltlabs.com/" target="_blank">DLTLabs</a></sub>
+<h3>Kartik Chauhan</h3>
+<b>Associate Lead Engineer @ <a href="https://www.dltlabs.com/" target="_blank">DLTLabs</a></b>
+<br><br>
 <div>
     <span data-bs-toggle="tooltip" data-placement="left" title="Stackoverflow">
         <a href="https://stackoverflow.com/users/6352772/kartik-chauhan" target="_blank">
