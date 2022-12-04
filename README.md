@@ -1,5 +1,5 @@
-<h3 style="border-bottom: none">Kartik Chauhan</h3>
-<h4 style="border-bottom: none">Associate Lead Engineer @ <a href="https://www.dltlabs.com/" target="_blank">DLTLabs</a></h4>
+<h1 style="border-bottom: none">Kartik Chauhan</h1>
+<h2 style="border-bottom: none">Associate Lead Engineer @ <a href="https://www.dltlabs.com/" target="_blank">DLTLabs</a></h2>
 <br>
 <div>
     <span data-bs-toggle="tooltip" data-placement="left" title="Stackoverflow">
