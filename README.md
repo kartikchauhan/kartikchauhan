@@ -28,7 +28,7 @@
     </span>
     <span data-bs-toggle="tooltip" data-placement="left" title="CodeChef">
         <a href="https://www.codechef.com/users/chauhankartik" target="_blank">
-            <img src="./assets/code" height="25" width="25">
+            <img src="./assets/code.svg" height="25" width="25">
         </a>
     </span>
     <span data-bs-toggle="tooltip" data-placement="left" title="Instagram">
