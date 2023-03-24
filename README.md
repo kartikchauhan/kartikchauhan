@@ -13,12 +13,17 @@
         </a>
     </span>&nbsp;
     <span data-bs-toggle="tooltip" data-placement="left" title="Medium">
-        <a href="https://medium.com/@chauhan.kartik25" target="_blank">
+        <a href="https://kartik-chauhan.medium.com" target="_blank">
             <img src="./assets/medium.svg" height="20" width="20">
         </a>
     </span>&nbsp;
     <span data-bs-toggle="tooltip" data-placement="left" title="LinkedIn">
         <a href="https://www.linkedin.com/in/kartik-chauhan-a9b605135/" target="_blank">
+            <img src="./assets/linkedin.svg" height="20" width="20">
+        </a>
+    </span>&nbsp;
+    <span data-bs-toggle="tooltip" data-placement="left" title="LeetCode">
+        <a href="https://leetcode.com/cs1402710075/" target="_blank">
             <img src="./assets/linkedin.svg" height="20" width="20">
         </a>
     </span>&nbsp;
