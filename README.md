@@ -18,7 +18,7 @@
         </a>
     </span>&nbsp;
     <span data-bs-toggle="tooltip" data-placement="left" title="LinkedIn">
-        <a href="https://www.linkedin.com/in/kartik-chauhan-a9b605135/" target="_blank">
+        <a href="https://www.linkedin.com/in/kartik-chauhan-it2018/" target="_blank">
             <img src="./assets/linkedin.svg" height="20" width="20">
         </a>
     </span>&nbsp;
