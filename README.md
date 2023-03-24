@@ -24,7 +24,7 @@
     </span>&nbsp;
     <span data-bs-toggle="tooltip" data-placement="left" title="LeetCode">
         <a href="https://leetcode.com/cs1402710075/" target="_blank">
-            <img src="./assets/linkedin.svg" height="20" width="20">
+            <img src="./assets/leetcode.svg" height="20" width="20">
         </a>
     </span>&nbsp;
     <span data-bs-toggle="tooltip" data-placement="left" title="HackerRank">
